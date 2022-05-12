@@ -1,0 +1,4 @@
+#Git commands used
+
+git branch -a 
+git checkout main
