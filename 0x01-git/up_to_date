@@ -1,4 +1,3 @@
-#Git commands used
+#Git command used
 
-git branch -a 
-git checkout main
+git pull
